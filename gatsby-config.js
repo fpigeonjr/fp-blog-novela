@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://frankpigeon.com`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `code | linux | music | life`,
+      heading: `just another blog about linux, music, open source, and life`,
       maxWidth: 652
     },
     social: [
